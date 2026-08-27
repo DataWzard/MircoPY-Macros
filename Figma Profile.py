@@ -1,4 +1,4 @@
-# SPDX-FileCopyright Text: 2022 Jacob Stack 
+# SPDX-FileCopyright Text: 2026 Jacob Stack 
 # SPDX-License-Identifier: MIT
 
 # MACROPAD Hotkeys: Figma macros with tool capabilty
